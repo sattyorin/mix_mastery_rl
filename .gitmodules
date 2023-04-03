@@ -7,3 +7,6 @@
 [submodule "ros/crane_x7_description"]
 	path = ros/crane_x7_description
 	url = git@github.com:sattyorin/crane_x7_description.git
+[submodule "moveit"]
+	path = moveit
+	url = git@github.com:ros-planning/moveit.git
