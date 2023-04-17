@@ -1,0 +1,5 @@
+radius_top : 0.0712
+radius_bottom : 0.04
+height : 0.054
+bottom_to_init_z : 0.01
+num_geom : 16
