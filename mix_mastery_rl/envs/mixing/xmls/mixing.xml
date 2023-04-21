@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<mujoco model="stir-v2">
+  <include file="header/header.xml" />
+  <worldbody>
+    <include file="worldbody/worldbody.xml" />
+    <include file="tools/bowl.xml" />
+    <include file="ingredients/ingredients.xml" />
+  </worldbody>
+  <include file="contact/contact.xml" />
+  <include file="actuator/actuator.xml" />
+</mujoco>
+

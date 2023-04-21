@@ -11,3 +11,8 @@ snap install yq
 ```
 pip install mujoco-python-viewer
 ```
+
+numpy-stl
+```
+python -m pip install numpy-stl
+```
